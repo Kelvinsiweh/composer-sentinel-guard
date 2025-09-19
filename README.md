@@ -18,3 +18,12 @@ composer require kelvin/sentinel-guard
 
 ### Laravel Integration
 Register middleware in bootstrap/app.php.
+
+## Contributors
+
+This project is actively developed and maintained by:
+- **[Kelvin Fomukong Siweh Nkweche](https://github.com/Kelvinsiweh)**
+- **[Ndemafia](https://github.com/ndemafiawilsmith)**
+
+Contributions, issue reports, and suggestions are welcome!
+

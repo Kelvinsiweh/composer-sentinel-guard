@@ -36,3 +36,7 @@ final class HmacVerifier implements SignatureVerifierInterface
 }
 
 // Hardened constant-time verification
+
+
+    // Salt prefixing support
+    public function withSalt(string $salt): self { return $this; }

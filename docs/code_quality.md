@@ -17,3 +17,4 @@
 [2026-07-27 10:18:28 +0100] style: apply automated formatting and clean up unused imports (ref: fb576873, by: Kelvin Fomukong Siweh Nkweche)
 [2026-08-18 09:50:26 +0100] style: apply automated formatting and clean up unused imports (ref: 9d87309f, by: Kelvin Fomukong Siweh Nkweche)
 [2026-08-19 12:08:16 +0100] style: apply automated formatting and clean up unused imports (ref: a9e47ebc, by: Kelvin Fomukong Siweh Nkweche)
+[2025-10-09 13:17:37 +0100] style(format): normalize code styling and clean import declarations (ref: 43a571f9, author: Ndemafia Wilsmith)

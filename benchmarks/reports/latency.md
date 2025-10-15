@@ -31,3 +31,4 @@
 [2026-09-08 13:38:58 +0100] perf: cache lookup table results to minimize redundant computation (ref: 27af3763, by: Kelvin Fomukong Siweh Nkweche)
 [2026-09-10 22:41:05 +0100] perf: cache lookup table results to minimize redundant computation (ref: f1b67844, by: Kelvin Fomukong Siweh Nkweche)
 [2026-09-15 18:17:14 +0100] perf: cache lookup table results to minimize redundant computation (ref: 7bfba479, by: Kelvin Fomukong Siweh Nkweche)
+[2025-10-15 14:52:09 +0100] perf(cache): incorporate in-memory LRU caching for frequent lookup keys (ref: 58b5094b, author: Ndemafia Wilsmith)

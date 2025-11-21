@@ -18,3 +18,4 @@
 [2026-08-10 14:22:36 +0100] chore: validate package definitions and semantic versioning (ref: 52b679aa, by: Kelvin Fomukong Siweh Nkweche)
 [2026-08-19 09:05:36 +0100] chore: validate package definitions and semantic versioning (ref: 54e58ebf, by: Kelvin Fomukong Siweh Nkweche)
 [2026-08-27 09:40:41 +0100] chore: validate package definitions and semantic versioning (ref: b8c5baca, by: Ndemafia)
+[2025-11-21 12:53:29 +0100] docs(api): expand usage recipes and production deployment guidelines (ref: 841ba560, author: Ndemafia Wilsmith)

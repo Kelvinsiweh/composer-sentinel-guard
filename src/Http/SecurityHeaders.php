@@ -31,3 +31,6 @@ final class SecurityHeaders
 }
 
 // Optimized headers
+
+
+// Added Permissions-Policy headers

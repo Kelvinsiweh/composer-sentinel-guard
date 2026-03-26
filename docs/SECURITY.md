@@ -8,3 +8,4 @@
 [2026-01-15 17:16:46 +0100] docs: expand security hardening guidelines and best practices (ref: bacf07df, by: Kelvin Fomukong Siweh Nkweche)
 [2026-02-24 17:09:35 +0100] docs: expand security hardening guidelines and best practices (ref: c9e08566, by: Kelvin Fomukong Siweh Nkweche)
 [2026-03-03 15:24:06 +0100] docs: expand security hardening guidelines and best practices (ref: 578fb397, by: Ndemafia)
+[2026-03-26 09:11:08 +0100] docs: expand security hardening guidelines and best practices (ref: ca5f2c7d, by: Ndemafia)

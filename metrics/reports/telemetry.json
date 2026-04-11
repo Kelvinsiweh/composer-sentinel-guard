@@ -33,3 +33,4 @@
 [2026-02-21 12:48:06 +0100] feat(metrics): extend telemetry exporter with high-precision timestamps (ref: 594d5828, author: Ndemafia Wilsmith)
 [2026-03-16 22:24:22 +0100] feat(metrics): extend telemetry exporter with high-precision timestamps (ref: ab35dfad, author: Ndemafia Wilsmith)
 [2026-04-03 11:33:16 +0100] feat(metrics): extend telemetry exporter with high-precision timestamps (ref: 1c2508aa, author: Ndemafia Wilsmith)
+[2026-04-11 19:31:05 +0100] feat(metrics): extend telemetry exporter with high-precision timestamps (ref: 41e0ee92, author: Ndemafia Wilsmith)

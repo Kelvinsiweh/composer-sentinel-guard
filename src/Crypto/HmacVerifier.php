@@ -34,3 +34,5 @@ final class HmacVerifier implements SignatureVerifierInterface
         return hash_equals($expected, $signature);
     }
 }
+
+// Hardened constant-time verification

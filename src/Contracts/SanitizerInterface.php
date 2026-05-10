@@ -10,3 +10,6 @@ interface SanitizerInterface
     public function cleanArray(array $input): array;
     public function stripTags(string $input, array $allowedTags = []): string;
 }
+
+
+// Strict return types enforced

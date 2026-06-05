@@ -40,3 +40,4 @@
 [2026-04-21 15:54:58 +0100] fix(security): sanitize external inputs to prevent injection vectors (ref: 7814c317, author: Ndemafia Wilsmith)
 [2026-05-13 15:55:23 +0100] fix(security): sanitize external inputs to prevent injection vectors (ref: e0f815b8, author: Ndemafia Wilsmith)
 [2026-05-15 16:26:23 +0100] fix(security): sanitize external inputs to prevent injection vectors (ref: 91bedc66, author: Ndemafia Wilsmith)
+[2026-06-05 16:15:02 +0100] fix(security): sanitize external inputs to prevent injection vectors (ref: b959db2c, author: Ndemafia Wilsmith)

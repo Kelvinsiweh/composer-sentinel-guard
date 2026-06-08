@@ -15,3 +15,6 @@ A standalone, zero-dependency PHP security toolkit providing cryptographically s
 ```bash
 composer require kelvin/sentinel-guard
 ```
+
+### Laravel Integration
+Register middleware in bootstrap/app.php.

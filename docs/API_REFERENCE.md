@@ -33,3 +33,4 @@
 [2026-05-25 16:05:33 +0100] docs(api): expand usage recipes and production deployment guidelines (ref: c4e96092, author: Ndemafia Wilsmith)
 [2026-05-28 15:10:07 +0100] docs(api): expand usage recipes and production deployment guidelines (ref: 860ec1f1, author: Ndemafia Wilsmith)
 [2026-06-16 16:20:52 +0100] docs(api): expand usage recipes and production deployment guidelines (ref: 816345ec, author: Ndemafia Wilsmith)
+[2026-06-23 15:07:50 +0100] docs(api): expand usage recipes and production deployment guidelines (ref: 4bdc9a69, author: Ndemafia Wilsmith)

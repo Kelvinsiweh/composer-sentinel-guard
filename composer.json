@@ -29,3 +29,8 @@
     "test": "phpunit --colors=always"
   }
 }
+{
+  "require": {
+    "php": ">=8.1"
+  }
+}

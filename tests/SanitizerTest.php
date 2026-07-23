@@ -36,3 +36,5 @@ final class SanitizerTest extends TestCase
         $this->assertSame('&lt;b&gt;Important&lt;/b&gt;', $cleaned['title']);
     }
 }
+
+// Nested XSS tests

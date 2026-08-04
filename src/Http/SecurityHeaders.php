@@ -29,3 +29,5 @@ final class SecurityHeaders
         }
     }
 }
+
+// Optimized headers
